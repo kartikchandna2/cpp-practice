@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\hp\source\repos\stack using linked list\stack using linked list\Source.cpp(38): warning C4715: 'push': not all control paths return a value
+C:\Users\hp\source\repos\stack using linked list\stack using linked list\Source.cpp(50): warning C4715: 'pop': not all control paths return a value
+  stack using linked list.vcxproj -> C:\Users\hp\source\repos\stack using linked list\x64\Debug\stack using linked list.exe

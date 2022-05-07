@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\hp\source\repos\infix to postfix using stack\infix to postfix using stack\Source.cpp(58): warning C4715: 'checkPrecedence': not all control paths return a value
+  infix to postfix using stack.vcxproj -> C:\Users\hp\source\repos\infix to postfix using stack\x64\Debug\infix to postfix using stack.exe

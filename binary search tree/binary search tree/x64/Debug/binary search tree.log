@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (binary search tree.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\hp\source\repos\binary search tree\binary search tree\Source.cpp(57): warning C4715: 'iterativeSearch': not all control paths return a value
+  binary search tree.vcxproj -> C:\Users\hp\source\repos\binary search tree\x64\Debug\binary search tree_build_check_search.exe
